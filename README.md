@@ -5,7 +5,7 @@ ce projet représente la partie backe(Api Rest) d'une application E-COMMERCE , s
 ### - Gérer des commandes
 ### - Gérer des factures
 ### - Gérer des clients
-###- Gérer des paniers de produits
+### - Gérer des paniers de produits
 
 les technologies utilisées dans ce projet sont:
 ### -Spring boot
