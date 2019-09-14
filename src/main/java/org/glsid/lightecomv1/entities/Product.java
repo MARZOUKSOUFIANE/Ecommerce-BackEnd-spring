@@ -20,6 +20,8 @@ public class Product implements Serializable {
     private boolean selected;
     private boolean available;
     private String photoName;
+    @Transient
+    private int quantity=1;
     @ManyToOne
     @JoinColumn(name = "cat_id")
     private Category category;
